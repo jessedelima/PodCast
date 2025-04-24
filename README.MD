@@ -71,10 +71,10 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/85102954?s=400&u=93dbd89e72e62aa9256c3bb41d81c558d6150755&v=4"
     />
-    <p>https://avatars.githubusercontent.com/u/85102954?s=400&u=93dbd89e72e62aa9256c3bb41d81c558d6150755&v=4Jessé de Lima<br>
-    https://avatars.githubusercontent.com/u/85102954?s=400&u=93dbd89e72e62aa9256c3bb41d81c558d6150755&v=4
+    <p>&nbsp&nbsp&nbspJessé de Lima<br>
+    &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/jessedelima">
         GitHub
